@@ -23,4 +23,4 @@ O principal objetivo deste projeto é praticar habilidades de desenvolvimento fr
 
 Repositório: https://github.com/DevLuan1345/Chihiro
 
-Deploy do Projeto: https://devluan1345.github.io/Chihiro/
+Deploy do Projeto: https://devluan1345.github.io/Chihiro/ 
